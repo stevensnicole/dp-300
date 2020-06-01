@@ -319,7 +319,7 @@ MSLearn
 
 - assess performance-related database configuration parameters
     - including AutoClose, AutoShrink, AutoGrowth
-        - AutoClose - I've never turned this off? Nod to Azure policy maybe? [https://docs.microsoft.com/en-us/sql/relational-databases/policy-based-management/set-the-auto-close-database-option-to-off?view=sql-server-ver15](https://docs.microsoft.com/en-us/sql/relational-databases/policy-based-management/set-the-auto-close-database-option-to-off?view=sql-server-ver15)
+        - AutoClose - [https://docs.microsoft.com/en-us/sql/relational-databases/policy-based-management/set-the-auto-close-database-option-to-off?view=sql-server-ver15](https://docs.microsoft.com/en-us/sql/relational-databases/policy-based-management/set-the-auto-close-database-option-to-off?view=sql-server-ver15)
 
 ### Configure resources for optimal performance
 
