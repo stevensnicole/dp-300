@@ -2,6 +2,12 @@
 
 ## Intro
 
+### Minor update - Sept 2020
+
+Found out after rescores that I passed this with a decent score, so hopefully it will help!
+
+-----
+
 Note - this is a dump of my notes as they were when I sat the exam, I've just dumped them out of Notion, no update happened after the exam.
 
 There isn't a DP-300 learning path as I write this, I took the detailed skills outline and used my knowledge, plus the MSDocs to fill in my gaps. I always do this before I start revising my weak spots, it becomes my revision plan. It may also be worth searching in MSLearn for SQL while there's no learning path as new content is added and removed - [Search learning for SQL](https://docs.microsoft.com/en-us/learn/browse/?term=sql) 
@@ -9,6 +15,7 @@ There isn't a DP-300 learning path as I write this, I took the detailed skills o
 This is a mix of free and paid content, but mostly free, it covers labs, workshops and Microsoft Learn tasks. The section "Main resources outside of Docs" are generic learning sources, they cover one or more of the skills listed below them. Detail for what I think each skill point is referencing is then added with a direct link to something in the Docs or part of the Main resources section.
 
 I didn't watch everything I have listed here video wise, they're listed incase I felt I needed another voice on a topic. My way of studying is to build out the environments and test them. I also used to be a DBA (a long time ago), so some parts of this will be light as I just needed a refresher. Hope it helps!
+
 
 ## Main resources outside of Docs
 
